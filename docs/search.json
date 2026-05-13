@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a student learning data engineering and visualization.\n\n\n\nData visualization\nProgramming\nTechnology\nArtificial intelligence\n\n\n\n\n\nRStudio\nGitHub\nQuarto\nMarkdown"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "",
+    "text": "Data visualization\nProgramming\nTechnology\nArtificial intelligence"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "",
+    "text": "RStudio\nGitHub\nQuarto\nMarkdown"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This project is a Quarto website hosted using GitHub Pages.\n\n\n\nI am learning how to create clear and useful visualizations from data."
+  },
+  {
+    "objectID": "projects.html#project-1-personal-website",
+    "href": "projects.html#project-1-personal-website",
+    "title": "Projects",
+    "section": "",
+    "text": "This project is a Quarto website hosted using GitHub Pages."
+  },
+  {
+    "objectID": "projects.html#project-2-data-visualization",
+    "href": "projects.html#project-2-data-visualization",
+    "title": "Projects",
+    "section": "",
+    "text": "I am learning how to create clear and useful visualizations from data."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hello, my name is Arvind.\nThis is my personal website created using Quarto and hosted with GitHub Pages.\n\n\nThis website includes information about me, my interests, and my projects."
+  },
+  {
+    "objectID": "index.html#about-this-website",
+    "href": "index.html#about-this-website",
+    "title": "Home",
+    "section": "",
+    "text": "This website includes information about me, my interests, and my projects."
+  }
+]
