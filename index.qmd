@@ -1,0 +1,13 @@
+---
+title: "Home"
+---
+
+# Welcome
+
+Hello, my name is Arvind.
+
+This is my personal website created using Quarto and hosted with GitHub Pages.
+
+## About this website
+
+This website includes information about me, my interests, and my projects.

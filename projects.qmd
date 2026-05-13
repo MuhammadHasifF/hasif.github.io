@@ -1,0 +1,13 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+## Project 1: Personal Website
+
+This project is a Quarto website hosted using GitHub Pages.
+
+## Project 2: Data Visualization
+
+I am learning how to create clear and useful visualizations from data.
